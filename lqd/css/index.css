@@ -1,0 +1,25 @@
+#header-center-logo-slogan-img {
+	background: #ff2c76;
+}
+
+#header-center-logo-slogan-img .bg {
+	background-image: url('');
+	background-size: auto;
+	-webkit-background-size: auto;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.29;
+}#footer-center-logo {
+	background: #ff2c76;
+}
+
+#footer-center-logo .bg {
+	background-image: url('../images/bg-modal-error.jpg');
+	background-size: cover;
+	-webkit-background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-background-repeat: no-repeat;
+	background-position: center center;
+	opacity: 0.4;
+}
